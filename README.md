@@ -10,7 +10,7 @@ Zhongguancun Academy
 
 
 ## 🌟  Features
-- [x] **Survey for diffusion model-based Image Restoration** ([Arxiv version](https://arxiv.org/pdf/2308.09388v1.pdf) is released) 
+- [x] **Survey for Embodied AI** ([Arxiv version](https://arxiv.org/pdf/2407.06886.pdf) is released) 
 
 
 
