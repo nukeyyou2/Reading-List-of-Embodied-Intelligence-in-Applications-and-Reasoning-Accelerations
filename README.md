@@ -10,7 +10,9 @@ Zhongguancun Academy
 
 **Materials**:
 
-2024 WRC revision [Link](https://space.bilibili.com/1454682866/lists/1980821?type=season)
+- 2024 WRC revision [Link](https://space.bilibili.com/1454682866/lists/1980821?type=season)
+
+
 
 ## 🌟  Features
 - [x] **Survey for Embodied AI** ([Arxiv version](https://arxiv.org/pdf/2407.06886.pdf) is released) 
