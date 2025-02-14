@@ -18,13 +18,14 @@ Zhongguancun Academy
 
 
 
-## 🌟  Features
-- [x] **Survey for Embodied AI** ([Arxiv version](https://arxiv.org/pdf/2407.06886.pdf) is released) 
+## 🌟 Survey for Embodied AI
+- [x] **Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI** ([Arxiv version](https://arxiv.org/pdf/2407.06886.pdf) is released
+- [x] **From Screens to Scenes: A Survey of Embodied AI in Healthcare** ([Arxiv version](https://arxiv.org/abs/2501.07468.pdf) is released)
 
 
 
-
-## Embodied Intelligence in Applications/Reasoning Accelerations
+## The following is template!!!
+## Embodied Intelligence in Applications/Reasoning Accelerations 
 ### Table of contents
 <!-- - [Survey paper](#survey-paper)
 - [Table of contents](#table-of-contents) -->
