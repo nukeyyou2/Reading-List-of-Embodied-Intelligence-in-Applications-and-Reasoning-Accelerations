@@ -21,6 +21,7 @@ Zhongguancun Academy
 ## 🌟 Survey for Embodied AI
 - [x] **Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI** ([Arxiv version](https://arxiv.org/pdf/2407.06886.pdf) is released
 - [x] **From Screens to Scenes: A Survey of Embodied AI in Healthcare** ([Arxiv version](https://arxiv.org/abs/2501.07468.pdf) is released)
+- [x] **ChatGPT for Robotics: Design Principles and Model Abilities** ([PDF](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf))
 
 
 
