@@ -15,6 +15,7 @@ Zhongguancun Academy
   + [《具身智能指明了实现AGI的方向》](https://www.bilibili.com/video/BV1dtPCe7E1L)
   + [《欧洲机器人——步入AI新时代》](https://www.bilibili.com/video/BV1GXPkeGEU1)
   + [《从自动化到自主化—下一代机器人的生成式人工智能》](https://www.bilibili.com/video/BV15pfbYoEsr)
+  + [《2024北京智源大-具身智能专题论坛》](https://www.bilibili.com/video/BV1Zx4y147os)
 
 
 
