@@ -37,9 +37,9 @@ Zhongguancun Academy
   - [All Datasets](#all-datasets) -->
 
 ### Paper Applications <a name="paper-applications"></a>
-|Models| Paper | First Author | Training Way | Venue | Topic | Project |
-| :-- | :---: | :--: | :--: |:--:|:--:| :--: |
-|SR3| [Image super-resolution via iterative refinement](https://ieeexplore.ieee.org/document/9887996x) | Chitwan Saharia | Supervised |TPAMI2022 | Super-resolution | [![Stars](https://img.shields.io/github/stars/Janspiry/Image-Super-Resolution-via-Iterative-Refinement.svg?style=social&label=Star)](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) |
+|Models| Paper | Project |
+| :-- | :--: | :--: |
+|OpenVLA| [OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/abs/2406.09246) | [![Stars](https://img.shields.io/github/stars/openvla/openvla.svg?style=social&label=Star)](https://github.com/openvla/openvla) |
 
 ### Paper Rerasoning Accelerations <a name="paper-reasoning-accelerations"></a>
 | Model | Paper | First Author | Training Way | Venue | Topic | Project |
